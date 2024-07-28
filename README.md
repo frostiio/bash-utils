@@ -1,5 +1,5 @@
 # bash-utils
-test
+test test2
 A collection of my hand-crafted bash scripts and helper functions for various common tasks.
 
 ## Code Layout
